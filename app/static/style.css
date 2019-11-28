@@ -1,8 +1,8 @@
 body {
     background-color: #fff;
-    background-image: url(download(1).jfif);
-    background-repeat:no-repeat;
-    background-attachment:fixed;
+    background-image: url('background.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: 100% 100%;
 }
 
